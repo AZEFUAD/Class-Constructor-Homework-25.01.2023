@@ -1,0 +1,15 @@
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\bin\Debug\net6.0\Class,Constructor Homework 25.01.2023.exe
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\bin\Debug\net6.0\Class,Constructor Homework 25.01.2023.deps.json
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\bin\Debug\net6.0\Class,Constructor Homework 25.01.2023.runtimeconfig.json
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\bin\Debug\net6.0\Class,Constructor Homework 25.01.2023.dll
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\bin\Debug\net6.0\Class,Constructor Homework 25.01.2023.pdb
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\Class,Constructor Homework 25.01.2023.csproj.AssemblyReference.cache
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\Class,Constructor Homework 25.01.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\Class,Constructor Homework 25.01.2023.AssemblyInfoInputs.cache
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\Class,Constructor Homework 25.01.2023.AssemblyInfo.cs
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\Class,Constructor Homework 25.01.2023.csproj.CoreCompileInputs.cache
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\Class,Constructor Homework 25.01.2023.dll
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\refint\Class,Constructor Homework 25.01.2023.dll
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\Class,Constructor Homework 25.01.2023.pdb
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\Class,Constructor Homework 25.01.2023.genruntimeconfig.cache
+C:\Users\Afqan\source\repos\Class,Constructor Homework 25.01.2023\Class,Constructor Homework 25.01.2023\obj\Debug\net6.0\ref\Class,Constructor Homework 25.01.2023.dll
